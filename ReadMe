@@ -1,0 +1,7 @@
+ima2.m -- Code Displays an image vector in the right orientation
+azip.mat -- the matrix of training digits data
+dzip.mat -- command dzip(i) tells you the (correct) digit you have in column i of the matrix azip
+dtest.mat -- tells you the (correct answer) of test digits
+testzip.mat -- the test digits data
+
+classification.m -- My project
